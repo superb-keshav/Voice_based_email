@@ -1,0 +1,5 @@
+Before executing program firstly we have to install this libraries via:
+pip install pyaudio
+pip install SpeechRecognition
+pip install smtblib
+pip install pyttsx3
